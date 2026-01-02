@@ -1,0 +1,431 @@
+Exp_Username,Exp_Date,Exp_Response*Response,Exp_Response*Accuracy,Exp_Response*trial_RT,Exp_Response*Object,Exp_Response*DMT_Trial,Exp_Response*Type,Exp_Response*Room,Exp_Response*Reward
+1167,2025-10-22,2,-1,2867.0413333347824,../run_exp/static/images/probes/probes-95.png,0,0,driftwood_beach,1
+1167,2025-10-22,-1,-1,3000,../run_exp/static/images/probes/probes-129.png,1,0,driftwood_beach,0
+1167,2025-10-22,-1,-1,3000,../run_exp/static/images/probes/probes-167.png,2,0,driftwood_beach,0
+1167,2025-10-22,0,-1,762.3632499999076,../run_exp/static/images/probes/probes-10.png,3,0,driftwood_beach,1
+1167,2025-10-22,1,-1,699.0928750001331,../run_exp/static/images/probes/probes-32.png,4,0,driftwood_beach,0
+1167,2025-10-22,0,-1,279.33862499958195,../run_exp/static/images/probes/probes-22.png,5,0,driftwood_beach,0
+1167,2025-10-22,2,-1,1177.0184166653053,../run_exp/static/images/probes/probes-120.png,6,0,driftwood_beach,0
+1167,2025-10-22,0,-1,1288.5858333320357,../run_exp/static/images/probes/probes-128.png,7,0,driftwood_beach,0
+1167,2025-10-22,0,-1,556.1309166678257,../run_exp/static/images/probes/probes-126.png,8,0,driftwood_beach,1
+1167,2025-10-22,1,-1,795.689416667301,../run_exp/static/images/probes/probes-166.png,9,0,driftwood_beach,0
+1167,2025-10-22,1,-1,1289.2048749999958,../run_exp/static/images/probes/probes-105.png,10,0,driftwood_beach,0
+1167,2025-10-22,0,-1,1213.1064166660508,../run_exp/static/images/probes/probes-21.png,11,0,driftwood_beach,1
+1167,2025-10-22,0,-1,665.0804999990214,../run_exp/static/images/probes/probes-42.png,12,0,driftwood_beach,0
+1167,2025-10-22,0,-1,967.2008750003442,../run_exp/static/images/probes/probes-178.png,13,0,driftwood_beach,1
+1167,2025-10-22,0,-1,1199.7711250005523,../run_exp/static/images/probes/probes-147.png,14,0,driftwood_beach,1
+1167,2025-10-22,0,-1,1292.013375001261,../run_exp/static/images/probes/probes-163.png,15,0,driftwood_beach,1
+1167,2025-10-22,0,-1,734.9979583341337,../run_exp/static/images/probes/probes-56.png,16,0,driftwood_beach,0
+1167,2025-10-22,0,-1,1322.6233750010579,../run_exp/static/images/probes/probes-15.png,17,0,driftwood_beach,1
+1167,2025-10-22,0,-1,888.970291665828,../run_exp/static/images/probes/probes-102.png,18,0,driftwood_beach,1
+1167,2025-10-22,0,-1,951.660124999762,../run_exp/static/images/probes/probes-103.png,19,0,driftwood_beach,1
+1167,2025-10-22,0,-1,909.5529583337338,../run_exp/static/images/probes/probes-29.png,20,0,driftwood_beach,1
+1167,2025-10-22,0,-1,512.6557916664751,../run_exp/static/images/probes/probes-130.png,21,0,driftwood_beach,1
+1167,2025-10-22,0,-1,933.7734166692826,../run_exp/static/images/probes/probes-93.png,22,0,driftwood_beach,1
+1167,2025-10-22,0,-1,524.2217916675145,../run_exp/static/images/probes/probes-50.png,23,0,driftwood_beach,1
+1167,2025-10-22,0,-1,2068.3719583339553,../run_exp/static/images/probes/probes-38.png,24,0,driftwood_beach,1
+1167,2025-10-22,0,-1,566.554458333485,../run_exp/static/images/probes/probes-172.png,25,0,driftwood_beach,1
+1167,2025-10-22,0,-1,823.0882916650444,../run_exp/static/images/probes/probes-08.png,26,0,driftwood_beach,1
+1167,2025-10-22,0,-1,834.9390416660754,../run_exp/static/images/probes/probes-134.png,27,0,driftwood_beach,0
+1167,2025-10-22,0,-1,680.531374999191,../run_exp/static/images/probes/probes-159.png,28,0,driftwood_beach,1
+1167,2025-10-22,0,-1,2335.854625000138,../run_exp/static/images/probes/probes-51.png,29,0,driftwood_beach,0
+1167,2025-10-22,0,-1,1546.5081250004005,../run_exp/static/images/probes/probes-24.png,30,0,sunleaf_forest,1
+1167,2025-10-22,0,-1,1330.7039583341975,../run_exp/static/images/probes/probes-179.png,31,0,sunleaf_forest,0
+1167,2025-10-22,0,-1,453.00416666577803,../run_exp/static/images/probes/probes-16.png,32,0,sunleaf_forest,0
+1167,2025-10-22,1,-1,645.8623333346623,../run_exp/static/images/probes/probes-82.png,33,0,sunleaf_forest,0
+1167,2025-10-22,1,-1,2328.638208335178,../run_exp/static/images/probes/probes-84.png,34,0,sunleaf_forest,1
+1167,2025-10-22,1,-1,721.0115833331656,../run_exp/static/images/probes/probes-161.png,35,0,sunleaf_forest,1
+1167,2025-10-22,1,-1,798.0681666649616,../run_exp/static/images/probes/probes-91.png,36,0,sunleaf_forest,0
+1167,2025-10-22,1,-1,669.2866249995859,../run_exp/static/images/probes/probes-92.png,37,0,sunleaf_forest,0
+1167,2025-10-22,2,-1,548.9752916655561,../run_exp/static/images/probes/probes-139.png,38,0,sunleaf_forest,0
+1167,2025-10-22,2,-1,527.061083330409,../run_exp/static/images/probes/probes-97.png,39,0,sunleaf_forest,0
+1167,2025-10-22,1,-1,677.4833333347487,../run_exp/static/images/probes/probes-145.png,40,0,sunleaf_forest,0
+1167,2025-10-22,1,-1,605.9121666658029,../run_exp/static/images/probes/probes-118.png,41,0,sunleaf_forest,0
+1167,2025-10-22,0,-1,507.8549166664743,../run_exp/static/images/probes/probes-33.png,42,0,sunleaf_forest,0
+1167,2025-10-22,0,-1,486.8668750004872,../run_exp/static/images/probes/probes-171.png,43,0,sunleaf_forest,0
+1167,2025-10-22,0,-1,1209.3789166665374,../run_exp/static/images/probes/probes-77.png,44,0,sunleaf_forest,0
+1167,2025-10-22,1,-1,537.5554999991436,../run_exp/static/images/probes/probes-17.png,45,0,sunleaf_forest,0
+1167,2025-10-22,2,-1,787.3497499986115,../run_exp/static/images/probes/probes-137.png,46,0,sunleaf_forest,1
+1167,2025-10-22,2,-1,798.3078750003187,../run_exp/static/images/probes/probes-85.png,47,0,sunleaf_forest,0
+1167,2025-10-22,2,-1,1479.1737083342014,../run_exp/static/images/probes/probes-45.png,48,0,sunleaf_forest,0
+1167,2025-10-22,1,-1,468.928500000402,../run_exp/static/images/probes/probes-64.png,49,0,sunleaf_forest,0
+1167,2025-10-22,0,-1,700.0202083345357,../run_exp/static/images/probes/probes-144.png,50,0,sunleaf_forest,0
+1167,2025-10-22,1,-1,893.2406249987253,../run_exp/static/images/probes/probes-31.png,51,0,sunleaf_forest,1
+1167,2025-10-22,1,-1,592.0996250006283,../run_exp/static/images/probes/probes-150.png,52,0,sunleaf_forest,1
+1167,2025-10-22,1,-1,655.7518750014424,../run_exp/static/images/probes/probes-136.png,53,0,sunleaf_forest,1
+1167,2025-10-22,1,-1,581.4397499998449,../run_exp/static/images/probes/probes-177.png,54,0,sunleaf_forest,0
+1167,2025-10-22,1,-1,630.4422083321697,../run_exp/static/images/probes/probes-162.png,55,0,sunleaf_forest,1
+1167,2025-10-22,1,-1,551.6791666650533,../run_exp/static/images/probes/probes-100.png,56,0,sunleaf_forest,0
+1167,2025-10-22,0,-1,899.937708334619,../run_exp/static/images/probes/probes-44.png,57,0,sunleaf_forest,0
+1167,2025-10-22,1,-1,537.9448749990843,../run_exp/static/images/probes/probes-152.png,58,0,sunleaf_forest,0
+1167,2025-10-22,0,-1,443.85095833240484,../run_exp/static/images/probes/probes-03.png,59,0,sunleaf_forest,0
+1167,2025-10-22,0,-1,1313.9521249995596,../run_exp/static/images/probes/probes-176.png,60,0,icecap_mountain,0
+1167,2025-10-22,0,-1,504.2384166663396,../run_exp/static/images/probes/probes-66.png,61,0,icecap_mountain,0
+1167,2025-10-22,0,-1,952.9391666674201,../run_exp/static/images/probes/probes-67.png,62,0,icecap_mountain,0
+1167,2025-10-22,2,-1,1368.731749998915,../run_exp/static/images/probes/probes-83.png,63,0,icecap_mountain,0
+1167,2025-10-22,1,-1,839.4670833331475,../run_exp/static/images/probes/probes-168.png,64,0,icecap_mountain,0
+1167,2025-10-22,2,-1,421.1516249997658,../run_exp/static/images/probes/probes-47.png,65,0,icecap_mountain,0
+1167,2025-10-22,1,-1,632.8716249990975,../run_exp/static/images/probes/probes-34.png,66,0,icecap_mountain,0
+1167,2025-10-22,0,-1,367.4728750011127,../run_exp/static/images/probes/probes-59.png,67,0,icecap_mountain,0
+1167,2025-10-22,1,-1,768.9140416659939,../run_exp/static/images/probes/probes-43.png,68,0,icecap_mountain,0
+1167,2025-10-22,0,-1,520.283041667426,../run_exp/static/images/probes/probes-124.png,69,0,icecap_mountain,0
+1167,2025-10-22,2,-1,483.96787499950733,../run_exp/static/images/probes/probes-132.png,70,0,icecap_mountain,1
+1167,2025-10-22,2,-1,690.7309166672349,../run_exp/static/images/probes/probes-108.png,71,0,icecap_mountain,1
+1167,2025-10-22,2,-1,2277.7829583337734,../run_exp/static/images/probes/probes-58.png,72,0,icecap_mountain,1
+1167,2025-10-22,2,-1,817.6508333344827,../run_exp/static/images/probes/probes-117.png,73,0,icecap_mountain,0
+1167,2025-10-22,2,-1,800.4175833320915,../run_exp/static/images/probes/probes-61.png,74,0,icecap_mountain,0
+1167,2025-10-22,1,-1,927.9759583350824,../run_exp/static/images/probes/probes-135.png,75,0,icecap_mountain,0
+1167,2025-10-22,2,-1,570.136291666131,../run_exp/static/images/probes/probes-76.png,76,0,icecap_mountain,1
+1167,2025-10-22,2,-1,764.1935416650085,../run_exp/static/images/probes/probes-73.png,77,0,icecap_mountain,1
+1167,2025-10-22,2,-1,627.8275416661927,../run_exp/static/images/probes/probes-175.png,78,0,icecap_mountain,1
+1167,2025-10-22,2,-1,816.0899166650779,../run_exp/static/images/probes/probes-169.png,79,0,icecap_mountain,1
+1167,2025-10-22,2,-1,858.5602083330741,../run_exp/static/images/probes/probes-88.png,80,0,icecap_mountain,0
+1167,2025-10-22,2,-1,753.5464583324938,../run_exp/static/images/probes/probes-37.png,81,0,icecap_mountain,0
+1167,2025-10-22,0,-1,1081.012708333219,../run_exp/static/images/probes/probes-86.png,82,0,icecap_mountain,0
+1167,2025-10-22,2,-1,1668.2622499993158,../run_exp/static/images/probes/probes-74.png,83,0,icecap_mountain,0
+1167,2025-10-22,2,-1,957.4109999994107,../run_exp/static/images/probes/probes-138.png,84,0,icecap_mountain,1
+1167,2025-10-22,2,-1,1035.3487916654558,../run_exp/static/images/probes/probes-111.png,85,0,icecap_mountain,0
+1167,2025-10-22,2,-1,672.7241666685586,../run_exp/static/images/probes/probes-133.png,86,0,icecap_mountain,1
+1167,2025-10-22,2,-1,1124.9244999999064,../run_exp/static/images/probes/probes-116.png,87,0,icecap_mountain,1
+1167,2025-10-22,2,-1,805.4310833340423,../run_exp/static/images/probes/probes-48.png,88,0,icecap_mountain,1
+1167,2025-10-22,2,-1,731.4124166659894,../run_exp/static/images/probes/probes-52.png,89,0,icecap_mountain,1
+1167,2025-10-22,0,-1,2257.2317916674365,../run_exp/static/images/probes/probes-55.png,90,0,coral_beach,0
+1167,2025-10-22,1,-1,947.4083750010323,../run_exp/static/images/probes/probes-60.png,91,0,coral_beach,0
+1167,2025-10-22,1,-1,831.1057916671416,../run_exp/static/images/probes/probes-46.png,92,0,coral_beach,0
+1167,2025-10-22,0,-1,672.8320833317412,../run_exp/static/images/probes/probes-09.png,93,0,coral_beach,0
+1167,2025-10-22,1,-1,721.3337083339866,../run_exp/static/images/probes/probes-05.png,94,0,coral_beach,0
+1167,2025-10-22,2,-1,614.8802083316696,../run_exp/static/images/probes/probes-180.png,95,0,coral_beach,0
+1167,2025-10-22,2,-1,1742.2657916686148,../run_exp/static/images/probes/probes-112.png,96,0,coral_beach,0
+1167,2025-10-22,1,-1,570.6998333316733,../run_exp/static/images/probes/probes-90.png,97,0,coral_beach,0
+1167,2025-10-22,1,-1,1060.4277916663705,../run_exp/static/images/probes/probes-160.png,98,0,coral_beach,0
+1167,2025-10-22,2,-1,677.868374999889,../run_exp/static/images/probes/probes-69.png,99,0,coral_beach,1
+1167,2025-10-22,2,-1,2132.577874999697,../run_exp/static/images/probes/probes-20.png,100,0,coral_beach,1
+1167,2025-10-22,2,-1,1801.8160833325965,../run_exp/static/images/probes/probes-96.png,101,0,coral_beach,0
+1167,2025-10-22,2,-1,519.0042499998526,../run_exp/static/images/probes/probes-71.png,102,0,coral_beach,1
+1167,2025-10-22,2,-1,1825.941208333461,../run_exp/static/images/probes/probes-115.png,103,0,coral_beach,0
+1167,2025-10-22,2,-1,556.3390416664333,../run_exp/static/images/probes/probes-131.png,104,0,coral_beach,0
+1167,2025-10-22,0,-1,689.3894583336078,../run_exp/static/images/probes/probes-158.png,105,0,coral_beach,0
+1167,2025-10-22,0,-1,526.7156250010885,../run_exp/static/images/probes/probes-11.png,106,0,coral_beach,0
+1167,2025-10-22,1,-1,539.1052499999205,../run_exp/static/images/probes/probes-25.png,107,0,coral_beach,0
+1167,2025-10-22,1,-1,455.9401666665508,../run_exp/static/images/probes/probes-123.png,108,0,coral_beach,0
+1167,2025-10-22,1,-1,775.3285833350674,../run_exp/static/images/probes/probes-170.png,109,0,coral_beach,1
+1167,2025-10-22,1,-1,733.5217499985447,../run_exp/static/images/probes/probes-72.png,110,0,coral_beach,1
+1167,2025-10-22,1,-1,2044.1433750002034,../run_exp/static/images/probes/probes-114.png,111,0,coral_beach,0
+1167,2025-10-22,1,-1,557.4666666670964,../run_exp/static/images/probes/probes-49.png,112,0,coral_beach,0
+1167,2025-10-22,1,-1,785.3967916653346,../run_exp/static/images/probes/probes-127.png,113,0,coral_beach,0
+1167,2025-10-22,2,-1,1027.4820416652801,../run_exp/static/images/probes/probes-122.png,114,0,coral_beach,0
+1167,2025-10-22,1,-1,1285.6289166666102,../run_exp/static/images/probes/probes-79.png,115,0,coral_beach,0
+1167,2025-10-22,0,-1,560.8935416694294,../run_exp/static/images/probes/probes-157.png,116,0,coral_beach,0
+1167,2025-10-22,0,-1,1037.94683333399,../run_exp/static/images/probes/probes-121.png,117,0,coral_beach,0
+1167,2025-10-22,1,-1,692.9564166657656,../run_exp/static/images/probes/probes-104.png,118,0,coral_beach,0
+1167,2025-10-22,1,-1,783.7922500002605,../run_exp/static/images/probes/probes-14.png,119,0,coral_beach,1
+1167,2025-10-22,0,-1,1595.7506666672998,../run_exp/static/images/probes/probes-01.png,120,0,stonepine_forest,0
+1167,2025-10-22,1,-1,1535.031749999689,../run_exp/static/images/probes/probes-40.png,121,0,stonepine_forest,1
+1167,2025-10-22,1,-1,782.3370833320951,../run_exp/static/images/probes/probes-36.png,122,0,stonepine_forest,1
+1167,2025-10-22,1,-1,564.2869166658784,../run_exp/static/images/probes/probes-65.png,123,0,stonepine_forest,1
+1167,2025-10-22,1,-1,769.3142500011163,../run_exp/static/images/probes/probes-06.png,124,0,stonepine_forest,0
+1167,2025-10-22,2,-1,644.3249999992986,../run_exp/static/images/probes/probes-98.png,125,0,stonepine_forest,1
+1167,2025-10-22,2,-1,849.1028750013356,../run_exp/static/images/probes/probes-30.png,126,0,stonepine_forest,0
+1167,2025-10-22,2,-1,767.2977083348087,../run_exp/static/images/probes/probes-18.png,127,0,stonepine_forest,1
+1167,2025-10-22,2,-1,537.9542500013486,../run_exp/static/images/probes/probes-89.png,128,0,stonepine_forest,0
+1167,2025-10-22,2,-1,1178.3999166655121,../run_exp/static/images/probes/probes-142.png,129,0,stonepine_forest,0
+1167,2025-10-22,0,-1,650.1306666668825,../run_exp/static/images/probes/probes-154.png,130,0,stonepine_forest,1
+1167,2025-10-22,-1,-1,3000,../run_exp/static/images/probes/probes-68.png,131,0,stonepine_forest,0
+1167,2025-10-22,0,-1,861.6979166654346,../run_exp/static/images/probes/probes-151.png,132,0,stonepine_forest,0
+1167,2025-10-22,0,-1,446.8659583326371,../run_exp/static/images/probes/probes-19.png,133,0,stonepine_forest,1
+1167,2025-10-22,0,-1,533.2000416656228,../run_exp/static/images/probes/probes-101.png,134,0,stonepine_forest,1
+1167,2025-10-22,0,-1,586.6632500001288,../run_exp/static/images/probes/probes-153.png,135,0,stonepine_forest,1
+1167,2025-10-22,0,-1,800.560375000714,../run_exp/static/images/probes/probes-81.png,136,0,stonepine_forest,1
+1167,2025-10-22,0,-1,638.924875000157,../run_exp/static/images/probes/probes-87.png,137,0,stonepine_forest,1
+1167,2025-10-22,0,-1,616.0671249999723,../run_exp/static/images/probes/probes-80.png,138,0,stonepine_forest,0
+1167,2025-10-22,0,-1,591.6676666656713,../run_exp/static/images/probes/probes-78.png,139,0,stonepine_forest,1
+1167,2025-10-22,0,-1,767.1524583347491,../run_exp/static/images/probes/probes-28.png,140,0,stonepine_forest,1
+1167,2025-10-22,0,-1,956.2224166656961,../run_exp/static/images/probes/probes-110.png,141,0,stonepine_forest,1
+1167,2025-10-22,0,-1,653.6124166650552,../run_exp/static/images/probes/probes-106.png,142,0,stonepine_forest,1
+1167,2025-10-22,0,-1,484.02808333412395,../run_exp/static/images/probes/probes-109.png,143,0,stonepine_forest,0
+1167,2025-10-22,0,-1,574.2498749987135,../run_exp/static/images/probes/probes-173.png,144,0,stonepine_forest,1
+1167,2025-10-22,0,-1,1102.9069583346427,../run_exp/static/images/probes/probes-23.png,145,0,stonepine_forest,0
+1167,2025-10-22,0,-1,664.0002916665253,../run_exp/static/images/probes/probes-140.png,146,0,stonepine_forest,1
+1167,2025-10-22,0,-1,830.8758333332662,../run_exp/static/images/probes/probes-35.png,147,0,stonepine_forest,0
+1167,2025-10-22,0,-1,607.0773749997898,../run_exp/static/images/probes/probes-07.png,148,0,stonepine_forest,0
+1167,2025-10-22,2,-1,575.3793333351496,../run_exp/static/images/probes/probes-155.png,149,0,stonepine_forest,1
+1167,2025-10-22,0,-1,1063.341583332658,../run_exp/static/images/probes/probes-62.png,150,0,greenrock_mountain,0
+1167,2025-10-22,0,-1,672.5628749991301,../run_exp/static/images/probes/probes-174.png,151,0,greenrock_mountain,0
+1167,2025-10-22,1,-1,536.538083335472,../run_exp/static/images/probes/probes-75.png,152,0,greenrock_mountain,0
+1167,2025-10-22,1,-1,849.7496250001859,../run_exp/static/images/probes/probes-02.png,153,0,greenrock_mountain,0
+1167,2025-10-22,2,-1,542.9830833327287,../run_exp/static/images/probes/probes-125.png,154,0,greenrock_mountain,0
+1167,2025-10-22,2,-1,1144.24766666707,../run_exp/static/images/probes/probes-164.png,155,0,greenrock_mountain,0
+1167,2025-10-22,1,-1,599.4530000007217,../run_exp/static/images/probes/probes-143.png,156,0,greenrock_mountain,1
+1167,2025-10-22,1,-1,642.5174166670331,../run_exp/static/images/probes/probes-27.png,157,0,greenrock_mountain,0
+1167,2025-10-22,1,-1,598.5428333351592,../run_exp/static/images/probes/probes-54.png,158,0,greenrock_mountain,1
+1167,2025-10-22,1,-1,1186.4403750005295,../run_exp/static/images/probes/probes-63.png,159,0,greenrock_mountain,0
+1167,2025-10-22,1,-1,835.3853333337611,../run_exp/static/images/probes/probes-41.png,160,0,greenrock_mountain,0
+1167,2025-10-22,0,-1,666.7026249997434,../run_exp/static/images/probes/probes-13.png,161,0,greenrock_mountain,0
+1167,2025-10-22,0,-1,612.1786666681146,../run_exp/static/images/probes/probes-165.png,162,0,greenrock_mountain,0
+1167,2025-10-22,1,-1,669.1363333357003,../run_exp/static/images/probes/probes-12.png,163,0,greenrock_mountain,0
+1167,2025-10-22,2,-1,563.0519999995158,../run_exp/static/images/probes/probes-57.png,164,0,greenrock_mountain,1
+1167,2025-10-22,2,-1,1664.2054583335266,../run_exp/static/images/probes/probes-70.png,165,0,greenrock_mountain,1
+1167,2025-10-22,2,-1,1225.3589166666643,../run_exp/static/images/probes/probes-146.png,166,0,greenrock_mountain,0
+1167,2025-10-22,2,-1,665.0302916659712,../run_exp/static/images/probes/probes-53.png,167,0,greenrock_mountain,0
+1167,2025-10-22,1,-1,880.6091250007739,../run_exp/static/images/probes/probes-04.png,168,0,greenrock_mountain,0
+1167,2025-10-22,1,-1,526.5037916651636,../run_exp/static/images/probes/probes-39.png,169,0,greenrock_mountain,0
+1167,2025-10-22,0,-1,527.6404166688735,../run_exp/static/images/probes/probes-113.png,170,0,greenrock_mountain,0
+1167,2025-10-22,0,-1,591.8111666651384,../run_exp/static/images/probes/probes-148.png,171,0,greenrock_mountain,0
+1167,2025-10-22,2,-1,592.2036249994562,../run_exp/static/images/probes/probes-156.png,172,0,greenrock_mountain,0
+1167,2025-10-22,2,-1,851.4764166648092,../run_exp/static/images/probes/probes-94.png,173,0,greenrock_mountain,1
+1167,2025-10-22,2,-1,585.5143750013667,../run_exp/static/images/probes/probes-119.png,174,0,greenrock_mountain,0
+1167,2025-10-22,1,-1,648.6074583317532,../run_exp/static/images/probes/probes-141.png,175,0,greenrock_mountain,0
+1167,2025-10-22,2,-1,549.0195833335747,../run_exp/static/images/probes/probes-99.png,176,0,greenrock_mountain,0
+1167,2025-10-22,0,-1,495.02854166894394,../run_exp/static/images/probes/probes-107.png,177,0,greenrock_mountain,1
+1167,2025-10-22,0,-1,682.4489166665444,../run_exp/static/images/probes/probes-149.png,178,0,greenrock_mountain,1
+1167,2025-10-22,0,-1,810.2492500001972,../run_exp/static/images/probes/probes-26.png,179,0,greenrock_mountain,0
+1167,2025-10-22,0,-1,2671.9110416670446,<NA>,180,0,room 7,0
+1167,2025-10-22,0,-1,1804.0367499997956,<NA>,181,0,room 7,0
+1167,2025-10-22,1,-1,809.3187083304656,<NA>,182,0,room 7,1
+1167,2025-10-22,2,-1,1123.761041668331,<NA>,183,0,room 7,0
+1167,2025-10-22,0,-1,568.5762499997509,<NA>,184,0,room 7,0
+1167,2025-10-22,0,-1,638.6227916664211,<NA>,185,0,room 7,0
+1167,2025-10-22,0,-1,717.1127916662954,<NA>,186,0,room 7,0
+1167,2025-10-22,0,-1,759.9371250016702,<NA>,187,0,room 7,0
+1167,2025-10-22,0,-1,906.6612083333894,<NA>,188,0,room 7,1
+1167,2025-10-22,0,-1,635.7031666666444,<NA>,189,0,room 7,0
+1167,2025-10-22,1,-1,606.4436249998835,<NA>,190,0,room 7,0
+1167,2025-10-22,2,-1,589.4891666666808,<NA>,191,0,room 7,0
+1167,2025-10-22,0,-1,571.1694166657253,<NA>,192,0,room 7,0
+1167,2025-10-22,0,-1,880.256875001578,<NA>,193,0,room 7,1
+1167,2025-10-22,0,-1,565.371791664802,<NA>,194,0,room 7,1
+1167,2025-10-22,-1,-1,3000,../run_exp/static/images/probes/probes-139.png,195,1,sunleaf_forest,-1
+1167,2025-10-22,0,-1,970.1682499999151,<NA>,196,0,room 7,1
+1167,2025-10-22,0,-1,990.7566250003583,<NA>,197,0,room 7,0
+1167,2025-10-22,5,0,1807.5356666668085,../run_exp/static/images/probes/probes-246.png,198,1,<NA>,-1
+1167,2025-10-22,0,-1,1151.1632500005362,<NA>,199,0,room 7,1
+1167,2025-10-22,0,-1,685.5927083342976,<NA>,200,0,room 7,1
+1167,2025-10-22,5,1,1552.0870833333902,../run_exp/static/images/probes/probes-65.png,201,1,stonepine_forest,-1
+1167,2025-10-22,0,-1,1133.095624998532,<NA>,202,0,room 7,1
+1167,2025-10-22,5,1,2146.510708334972,../run_exp/static/images/probes/probes-168.png,203,1,icecap_mountain,-1
+1167,2025-10-22,0,-1,1155.4106249986944,<NA>,204,0,room 7,1
+1167,2025-10-22,5,1,1372.4167083328211,../run_exp/static/images/probes/probes-95.png,205,1,driftwood_beach,-1
+1167,2025-10-22,0,-1,816.5977916669362,<NA>,206,0,room 7,1
+1167,2025-10-22,8,1,2664.7897500006366,../run_exp/static/images/probes/probes-241.png,207,1,<NA>,-1
+1167,2025-10-22,0,-1,996.6278333340597,<NA>,208,0,room 7,1
+1167,2025-10-22,5,1,2410.674166665558,../run_exp/static/images/probes/probes-22.png,209,1,driftwood_beach,-1
+1167,2025-10-22,0,-1,812.4707499991928,<NA>,210,0,room 7,1
+1167,2025-10-22,8,0,1847.1997916676628,../run_exp/static/images/probes/probes-84.png,211,1,sunleaf_forest,-1
+1167,2025-10-22,0,-1,779.3181666675082,<NA>,212,0,room 7,1
+1167,2025-10-22,0,-1,577.3520000002463,<NA>,213,0,room 7,1
+1167,2025-10-22,8,0,1541.8999166686262,../run_exp/static/images/probes/probes-180.png,214,1,coral_beach,-1
+1167,2025-10-22,0,-1,1263.9895416687068,<NA>,215,0,room 7,1
+1167,2025-10-22,8,1,1492.4809583335445,../run_exp/static/images/probes/probes-233.png,216,1,<NA>,-1
+1167,2025-10-22,0,-1,761.0035416673782,<NA>,217,0,room 7,0
+1167,2025-10-22,0,-1,794.902749999892,<NA>,218,0,room 7,1
+1167,2025-10-22,2,-1,835.1402499993128,<NA>,219,0,room 7,0
+1167,2025-10-22,5,1,1979.0248749995953,../run_exp/static/images/probes/probes-98.png,220,1,stonepine_forest,-1
+1167,2025-10-22,2,-1,681.4932500001305,<NA>,221,0,room 7,0
+1167,2025-10-22,5,1,1638.0695833340724,../run_exp/static/images/probes/probes-66.png,222,1,icecap_mountain,-1
+1167,2025-10-22,2,-1,647.8187916654861,<NA>,223,0,room 7,0
+1167,2025-10-22,5,1,1781.0786666668719,../run_exp/static/images/probes/probes-90.png,224,1,coral_beach,-1
+1167,2025-10-22,0,-1,847.022999998444,<NA>,225,0,room 7,0
+1167,2025-10-22,5,0,1383.6874999997235,../run_exp/static/images/probes/probes-239.png,226,1,<NA>,-1
+1167,2025-10-22,0,-1,601.8442916665663,<NA>,227,0,room 7,1
+1167,2025-10-22,8,0,2353.2405416681286,../run_exp/static/images/probes/probes-01.png,228,1,stonepine_forest,-1
+1167,2025-10-22,0,-1,826.3480416662787,<NA>,229,0,room 7,1
+1167,2025-10-22,2,-1,786.8587083339662,<NA>,230,0,room 7,0
+1167,2025-10-22,2,-1,954.9244166664721,<NA>,231,0,room 7,1
+1167,2025-10-22,5,1,1538.098708331745,../run_exp/static/images/probes/probes-62.png,232,1,greenrock_mountain,-1
+1167,2025-10-22,2,-1,721.4382083348028,<NA>,233,0,room 7,0
+1167,2025-10-22,2,-1,1130.2854999994452,<NA>,234,0,room 7,0
+1167,2025-10-22,0,-1,769.2505416689528,<NA>,235,0,room 7,0
+1167,2025-10-22,0,-1,709.4026666691207,<NA>,236,0,room 7,1
+1167,2025-10-22,1,-1,624.1126666682248,<NA>,237,0,room 7,0
+1167,2025-10-22,8,1,2110.1733750001586,../run_exp/static/images/probes/probes-251.png,238,1,<NA>,-1
+1167,2025-10-22,2,-1,1391.0858333329088,<NA>,239,0,room 7,1
+1167,2025-10-22,0,-1,837.9202500000247,<NA>,240,0,room 7,0
+1167,2025-10-22,1,-1,672.4237083344633,<NA>,241,0,room 7,0
+1167,2025-10-22,5,1,1807.3347083336557,../run_exp/static/images/probes/probes-166.png,242,1,driftwood_beach,-1
+1167,2025-10-22,2,-1,945.5122500003199,<NA>,243,0,room 7,0
+1167,2025-10-22,5,1,1110.7040833339852,../run_exp/static/images/probes/probes-91.png,244,1,sunleaf_forest,-1
+1167,2025-10-22,0,-1,593.425416665923,<NA>,245,0,room 7,0
+1167,2025-10-22,8,0,1213.1268333323533,../run_exp/static/images/probes/probes-24.png,246,1,sunleaf_forest,-1
+1167,2025-10-22,0,-1,825.0601250001637,<NA>,247,0,room 7,0
+1167,2025-10-22,5,1,1613.0272916689137,../run_exp/static/images/probes/probes-179.png,248,1,sunleaf_forest,-1
+1167,2025-10-22,2,-1,651.8006250007602,<NA>,249,0,room 7,0
+1167,2025-10-22,2,-1,1286.6851666658476,<NA>,250,0,room 7,0
+1167,2025-10-22,8,0,1376.2021666680084,../run_exp/static/images/probes/probes-97.png,251,1,sunleaf_forest,-1
+1167,2025-10-22,0,-1,703.3862083335407,<NA>,252,0,room 7,0
+1167,2025-10-22,0,-1,621.2188333320228,<NA>,253,0,room 7,0
+1167,2025-10-22,5,1,1561.7782083336351,../run_exp/static/images/probes/probes-54.png,254,1,greenrock_mountain,-1
+1167,2025-10-22,0,-1,803.7952499998937,<NA>,255,0,room 7,0
+1167,2025-10-22,5,1,1751.1850000009872,../run_exp/static/images/probes/probes-69.png,256,1,coral_beach,-1
+1167,2025-10-22,0,-1,853.3089166667196,<NA>,257,0,room 7,0
+1167,2025-10-22,8,1,1285.2917916661681,../run_exp/static/images/probes/probes-254.png,258,1,<NA>,-1
+1167,2025-10-22,1,-1,807.3832083318848,<NA>,259,0,room 7,0
+1167,2025-10-22,5,1,1506.7851666663046,../run_exp/static/images/probes/probes-34.png,260,1,icecap_mountain,-1
+1167,2025-10-22,1,-1,1217.1574166659411,<NA>,261,0,room 7,1
+1167,2025-10-22,5,1,1085.8444166660774,../run_exp/static/images/probes/probes-40.png,262,1,stonepine_forest,-1
+1167,2025-10-22,2,-1,564.2728750008246,<NA>,263,0,room 7,1
+1167,2025-10-22,0,-1,1145.2034166668454,<NA>,264,0,room 7,0
+1167,2025-10-22,1,-1,615.9084999999322,<NA>,265,0,room 7,0
+1167,2025-10-22,2,-1,682.5892916676821,<NA>,266,0,room 7,0
+1167,2025-10-22,5,1,1335.420666666323,../run_exp/static/images/probes/probes-161.png,267,1,sunleaf_forest,-1
+1167,2025-10-22,0,-1,705.9453333331476,<NA>,268,0,room 7,0
+1167,2025-10-22,8,0,1626.5620833328285,../run_exp/static/images/probes/probes-55.png,269,1,coral_beach,-1
+1167,2025-10-22,2,-1,748.8849583314732,<NA>,270,0,room 7,0
+1167,2025-10-22,5,1,1283.5520416665531,../run_exp/static/images/probes/probes-143.png,271,1,greenrock_mountain,-1
+1167,2025-10-22,0,-1,1298.274124999807,<NA>,272,0,room 7,0
+1167,2025-10-22,5,1,1304.5460416669812,../run_exp/static/images/probes/probes-92.png,273,1,sunleaf_forest,-1
+1167,2025-10-22,0,-1,723.8290833320207,<NA>,274,0,room 7,0
+1167,2025-10-22,0,-1,682.819624998956,<NA>,275,0,room 7,0
+1167,2025-10-22,1,-1,735.5892499999754,<NA>,276,0,room 7,0
+1167,2025-10-22,8,0,1713.9602916668082,../run_exp/static/images/probes/probes-46.png,277,1,coral_beach,-1
+1167,2025-10-22,0,-1,802.5510833340377,<NA>,278,0,room 7,0
+1167,2025-10-22,5,1,1573.3664166673407,../run_exp/static/images/probes/probes-30.png,279,1,stonepine_forest,-1
+1167,2025-10-22,2,-1,1625.3844166658382,<NA>,280,0,room 7,0
+1167,2025-10-22,5,1,1830.4348750007193,../run_exp/static/images/probes/probes-18.png,281,1,stonepine_forest,-1
+1167,2025-10-22,2,-1,1272.1080416667974,<NA>,282,0,room 7,1
+1167,2025-10-22,1,-1,845.4965000000811,<NA>,283,0,room 7,0
+1167,2025-10-22,1,-1,768.5904166664841,<NA>,284,0,room 7,1
+1167,2025-10-22,1,-1,715.5213749992981,<NA>,285,0,room 7,0
+1167,2025-10-22,8,0,1987.9569166660076,../run_exp/static/images/probes/probes-09.png,286,1,coral_beach,-1
+1167,2025-10-22,0,-1,686.1715416689549,<NA>,287,0,room 7,1
+1167,2025-10-22,0,-1,593.0127499996161,<NA>,288,0,room 7,0
+1167,2025-10-22,0,-1,693.0696250001347,<NA>,289,0,room 7,0
+1167,2025-10-22,0,-1,727.1763749995444,<NA>,290,0,room 7,0
+1167,2025-10-22,8,0,1715.1353749995906,../run_exp/static/images/probes/probes-47.png,291,1,icecap_mountain,-1
+1167,2025-10-22,0,-1,958.6886249999225,<NA>,292,0,room 7,0
+1167,2025-10-22,8,1,1673.9072916661826,../run_exp/static/images/probes/probes-253.png,293,1,<NA>,-1
+1167,2025-10-22,2,-1,783.8875416673545,<NA>,294,0,room 7,1
+1167,2025-10-22,8,0,2367.299041667138,../run_exp/static/images/probes/probes-82.png,295,1,sunleaf_forest,-1
+1167,2025-10-22,0,-1,933.5730416660226,<NA>,296,0,room 7,0
+1167,2025-10-22,5,1,1608.5582916657586,../run_exp/static/images/probes/probes-160.png,297,1,coral_beach,-1
+1167,2025-10-22,0,-1,1006.2007083342905,<NA>,298,0,room 7,1
+1167,2025-10-22,0,-1,828.6632083327277,<NA>,299,0,room 7,1
+1167,2025-10-22,5,1,1353.023708334149,../run_exp/static/images/probes/probes-126.png,300,1,driftwood_beach,-1
+1167,2025-10-22,0,-1,674.1202499997598,<NA>,301,0,room 7,0
+1167,2025-10-22,0,-1,610.4798750002374,<NA>,302,0,room 7,0
+1167,2025-10-22,5,1,1124.2727916669537,../run_exp/static/images/probes/probes-06.png,303,1,stonepine_forest,-1
+1167,2025-10-22,0,-1,679.815375000544,<NA>,304,0,room 7,1
+1167,2025-10-22,8,0,1333.7064999996073,../run_exp/static/images/probes/probes-125.png,305,1,greenrock_mountain,-1
+1167,2025-10-22,0,-1,850.3122500005702,<NA>,306,0,room 7,0
+1167,2025-10-22,0,-1,714.5974166669475,<NA>,307,0,room 7,0
+1167,2025-10-22,1,-1,917.7768749996176,<NA>,308,0,room 7,0
+1167,2025-10-22,2,-1,575.5035833335569,<NA>,309,0,room 7,1
+1167,2025-10-22,1,-1,637.1421250005369,<NA>,310,0,room 7,1
+1167,2025-10-22,0,-1,527.7006250016711,<NA>,311,0,room 7,0
+1167,2025-10-22,0,-1,505.20020833209855,<NA>,312,0,room 7,0
+1167,2025-10-22,5,1,1486.6316666684725,../run_exp/static/images/probes/probes-89.png,313,1,stonepine_forest,-1
+1167,2025-10-22,0,-1,1249.1068333347357,<NA>,314,0,room 7,0
+1167,2025-10-22,0,-1,692.5308750014665,<NA>,315,0,room 7,0
+1167,2025-10-22,0,-1,700.1317916674452,<NA>,316,0,room 7,0
+1167,2025-10-22,8,1,1520.9937500003434,../run_exp/static/images/probes/probes-252.png,317,1,<NA>,-1
+1167,2025-10-22,2,-1,681.703041669607,<NA>,318,0,room 7,0
+1167,2025-10-22,1,-1,1788.393000000724,<NA>,319,0,room 7,0
+1167,2025-10-22,0,-1,635.6792083333858,<NA>,320,0,room 7,0
+1167,2025-10-22,0,-1,1244.9613333319576,<NA>,321,0,room 7,0
+1167,2025-10-22,2,-1,569.8120416655001,<NA>,322,0,room 7,1
+1167,2025-10-22,1,-1,679.3436666666821,<NA>,323,0,room 7,0
+1167,2025-10-22,8,1,2992.947708333304,../run_exp/static/images/probes/probes-237.png,324,1,<NA>,-1
+1167,2025-10-22,1,-1,1817.74570833295,<NA>,325,0,room 7,1
+1167,2025-10-22,5,1,1952.9743749990303,../run_exp/static/images/probes/probes-83.png,326,1,icecap_mountain,-1
+1167,2025-10-22,1,-1,1665.5417916663282,<NA>,327,0,room 7,0
+1167,2025-10-22,8,0,2252.513249999538,../run_exp/static/images/probes/probes-128.png,328,1,driftwood_beach,-1
+1167,2025-10-22,1,-1,1092.4969999996392,<NA>,329,0,room 7,0
+1167,2025-10-22,5,1,2519.406000001254,../run_exp/static/images/probes/probes-05.png,330,1,coral_beach,-1
+1167,2025-10-22,0,-1,2339.5819999986998,<NA>,331,0,room 7,0
+1167,2025-10-22,1,-1,610.693958331467,<NA>,332,0,room 7,0
+1167,2025-10-22,2,-1,672.641625000324,<NA>,333,0,room 7,0
+1167,2025-10-22,2,-1,763.2664166685572,<NA>,334,0,room 7,0
+1167,2025-10-22,5,1,1506.016166666086,../run_exp/static/images/probes/probes-142.png,335,1,stonepine_forest,-1
+1167,2025-10-22,2,-1,1467.5262083328562,<NA>,336,0,room 7,0
+1167,2025-10-22,5,1,2349.3994166656194,../run_exp/static/images/probes/probes-10.png,337,1,driftwood_beach,-1
+1167,2025-10-22,1,-1,2282.3708333326067,<NA>,338,0,room 7,0
+1167,2025-10-22,8,1,2061.3007499996456,../run_exp/static/images/probes/probes-255.png,339,1,<NA>,-1
+1167,2025-10-22,1,-1,852.6644583344023,<NA>,340,0,room 7,1
+1167,2025-10-22,8,0,1936.4833333347633,../run_exp/static/images/probes/probes-124.png,341,1,icecap_mountain,-1
+1167,2025-10-22,1,-1,1451.6765833323007,<NA>,342,0,room 7,1
+1167,2025-10-22,2,-1,768.3272499998566,<NA>,343,0,room 7,0
+1167,2025-10-22,2,-1,743.8797083341342,<NA>,344,0,room 7,0
+1167,2025-10-22,0,-1,942.5929166663991,<NA>,345,0,room 7,0
+1167,2025-10-22,0,-1,625.241375000769,<NA>,346,0,room 7,0
+1167,2025-10-22,5,1,1685.965833334194,../run_exp/static/images/probes/probes-59.png,347,1,icecap_mountain,-1
+1167,2025-10-22,2,-1,592.6588333331892,<NA>,348,0,room 7,0
+1167,2025-10-22,1,-1,777.6133333354665,<NA>,349,0,room 7,1
+1167,2025-10-22,0,-1,551.0245833338558,<NA>,350,0,room 7,0
+1167,2025-10-22,5,1,1658.4279166654596,../run_exp/static/images/probes/probes-176.png,351,1,icecap_mountain,-1
+1167,2025-10-22,0,-1,889.3567083323433,<NA>,352,0,room 7,0
+1167,2025-10-22,5,1,1318.1306250007765,../run_exp/static/images/probes/probes-60.png,353,1,coral_beach,-1
+1167,2025-10-22,0,-1,833.2751250000001,<NA>,354,0,room 7,0
+1167,2025-10-22,5,1,1177.8103750002629,../run_exp/static/images/probes/probes-43.png,355,1,icecap_mountain,-1
+1167,2025-10-22,1,-1,654.63812499911,<NA>,356,0,room 7,1
+1167,2025-10-22,8,1,1364.4858749994455,../run_exp/static/images/probes/probes-243.png,357,1,<NA>,-1
+1167,2025-10-22,2,-1,559.3847083328001,<NA>,358,0,room 7,1
+1167,2025-10-22,5,1,1026.9541249999747,../run_exp/static/images/probes/probes-75.png,359,1,greenrock_mountain,-1
+1167,2025-10-22,1,-1,707.8643333352375,<NA>,360,0,room 7,1
+1167,2025-10-22,1,-1,736.0725416656351,<NA>,361,0,room 7,1
+1167,2025-10-22,1,-1,826.5156666657276,<NA>,362,0,room 7,0
+1167,2025-10-22,1,-1,634.3963750005059,<NA>,363,0,room 7,0
+1167,2025-10-22,1,-1,570.4261666651291,<NA>,364,0,room 7,1
+1167,2025-10-22,1,-1,705.3484999996726,<NA>,365,0,room 7,1
+1167,2025-10-22,5,1,2087.425041669121,../run_exp/static/images/probes/probes-32.png,366,1,driftwood_beach,-1
+1167,2025-10-22,1,-1,1030.4399583310442,<NA>,367,0,room 7,1
+1167,2025-10-22,8,1,1415.0905000005878,../run_exp/static/images/probes/probes-235.png,368,1,<NA>,-1
+1167,2025-10-22,0,-1,732.431666667253,<NA>,369,0,room 7,0
+1167,2025-10-22,0,0,1913.003708334145,../run_exp/static/images/probes/probes-139.png,370,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-139.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,7,0,2357.587833334037,../run_exp/static/images/probes/probes-65.png,371,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-65.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,6,0,2147.6807083327003,../run_exp/static/images/probes/probes-168.png,372,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-168.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,0,1,1378.8370833335648,../run_exp/static/images/probes/probes-95.png,373,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-95.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,0,1,980.026999999609,../run_exp/static/images/probes/probes-22.png,374,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-22.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,6,0,1372.6885833330016,../run_exp/static/images/probes/probes-84.png,375,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-84.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,6,0,1361.478958333464,../run_exp/static/images/probes/probes-180.png,376,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-180.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,7,0,1704.7106666686886,../run_exp/static/images/probes/probes-98.png,377,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-98.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,5,0,1986.6529583341617,../run_exp/static/images/probes/probes-66.png,378,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-66.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,7,0,2424.324166666338,../run_exp/static/images/probes/probes-90.png,379,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-90.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,6,1,1931.5094583325845,../run_exp/static/images/probes/probes-01.png,380,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-01.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,0,0,1621.1750000002212,../run_exp/static/images/probes/probes-62.png,381,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-62.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,7,0,2802.2985416664596,../run_exp/static/images/probes/probes-166.png,382,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-166.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,6,0,2267.178124999191,../run_exp/static/images/probes/probes-91.png,383,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-91.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,-1,-1,3000,../run_exp/static/images/probes/probes-24.png,384,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-24.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,6,0,1697.552125000584,../run_exp/static/images/probes/probes-179.png,385,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-179.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,6,0,2527.2776250003517,../run_exp/static/images/probes/probes-97.png,386,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-97.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,0,0,2003.3137500013254,../run_exp/static/images/probes/probes-54.png,387,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-54.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,5,1,1726.6546666669456,../run_exp/static/images/probes/probes-69.png,388,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-69.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,5,0,2146.3179166657937,../run_exp/static/images/probes/probes-34.png,389,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-34.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,6,1,2234.079208334151,../run_exp/static/images/probes/probes-40.png,390,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-40.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,0,0,1973.5487916677812,../run_exp/static/images/probes/probes-161.png,391,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-161.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,5,1,2204.4594583330763,../run_exp/static/images/probes/probes-55.png,392,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-55.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,0,0,1360.0555833345425,../run_exp/static/images/probes/probes-143.png,393,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-143.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,6,0,2006.7191250000178,../run_exp/static/images/probes/probes-92.png,394,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-92.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,7,0,1870.8367499984888,../run_exp/static/images/probes/probes-46.png,395,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-46.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,7,0,2414.0122916651308,../run_exp/static/images/probes/probes-30.png,396,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-30.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,5,0,2590.5784583337663,../run_exp/static/images/probes/probes-18.png,397,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-18.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,0,0,1587.9017083334475,../run_exp/static/images/probes/probes-09.png,398,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-09.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,6,0,2074.524375000692,../run_exp/static/images/probes/probes-47.png,399,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-47.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,6,0,2179.296208332744,../run_exp/static/images/probes/probes-82.png,400,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-82.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,0,0,1376.1677500006044,../run_exp/static/images/probes/probes-160.png,401,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-160.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,5,0,2150.5571249999775,../run_exp/static/images/probes/probes-126.png,402,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-126.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,6,1,2362.7126666669938,../run_exp/static/images/probes/probes-06.png,403,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-06.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,5,0,2995.7154166659166,../run_exp/static/images/probes/probes-125.png,404,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-125.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,0,0,2486.2206666657585,../run_exp/static/images/probes/probes-89.png,405,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-89.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,6,0,2650.1958333319635,../run_exp/static/images/probes/probes-83.png,406,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-83.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,5,0,2234.86629166473,../run_exp/static/images/probes/probes-128.png,407,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-128.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,7,0,1818.4230416682112,../run_exp/static/images/probes/probes-05.png,408,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-05.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,7,0,2608.026208334195,../run_exp/static/images/probes/probes-142.png,409,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-142.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,-1,-1,3000,../run_exp/static/images/probes/probes-10.png,410,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-10.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,5,0,1943.8752083315194,../run_exp/static/images/probes/probes-124.png,411,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-124.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,0,0,1983.6269999996148,../run_exp/static/images/probes/probes-59.png,412,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-59.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,0,0,2594.3957083327405,../run_exp/static/images/probes/probes-176.png,413,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-176.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,7,0,2611.2058333346795,../run_exp/static/images/probes/probes-60.png,414,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-60.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,5,0,2722.147083331947,../run_exp/static/images/probes/probes-43.png,415,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-43.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,1,0,2925.909874998979,../run_exp/static/images/probes/probes-75.png,416,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-75.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,-1,-1,3000,../run_exp/static/images/probes/probes-32.png,417,2,"['../run_exp/static/images/miscellaneous/source_question.png', '../run_exp/static/images/miscellaneous/cargo_ship.png', '../run_exp/static/images/probes/probes-32.png', '../run_exp/static/images/contexts/source_1_beach.png', '../run_exp/static/images/contexts/source_2_forest.png', '../run_exp/static/images/contexts/source_3_mountain.png', '../run_exp/static/images/contexts/source_4_beach.png', '../run_exp/static/images/contexts/source_5_forest.png', '../run_exp/static/images/contexts/source_6_mountain.png']",-1
+1167,2025-10-22,0,-1,2486.943166666606,<NA>,418,3,driftwood_beach,-1
+1167,2025-10-22,2,-1,1993.0542500005686,<NA>,419,4,driftwood_beach,-1
+1167,2025-10-22,2,-1,3120.5860416685027,<NA>,419,3,sunleaf_forest,-1
+1167,2025-10-22,0,-1,973.3018333317887,<NA>,420,4,sunleaf_forest,-1
+1167,2025-10-22,1,-1,2909.3300416661805,<NA>,420,3,icecap_mountain,-1
+1167,2025-10-22,0,-1,1046.2941666683037,<NA>,421,4,icecap_mountain,-1
+1167,2025-10-22,0,-1,2162.2484583349433,<NA>,421,3,coral_beach,-1
+1167,2025-10-22,2,-1,607.7767499991751,<NA>,422,4,coral_beach,-1
+1167,2025-10-22,2,-1,2161.71520833268,<NA>,422,3,stonepine_forest,-1
+1167,2025-10-22,0,-1,491.8493750010384,<NA>,423,4,stonepine_forest,-1
+1167,2025-10-22,0,-1,1325.9921666667651,<NA>,423,3,greenrock_mountain,-1
+1167,2025-10-22,1,-1,2090.963375001593,<NA>,424,4,greenrock_mountain,-1

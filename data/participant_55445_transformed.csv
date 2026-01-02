@@ -1,0 +1,6 @@
+Exp_Username,Exp_Date,Exp_Response*Response,Exp_Response*Accuracy,Exp_Response*trial_RT,Exp_Response*Object,Exp_Response*DMT_Trial,Exp_Response*Type,Exp_Response*Room,Exp_Response*Reward
+55445,2025-10-21,1,-1,388.908916618675,../run_exp/static/images/probes/probes-14.png,0,0,driftwood_beach,0
+55445,2025-10-21,0,-1,379.95695788413286,../run_exp/static/images/probes/probes-34.png,1,0,driftwood_beach,0
+55445,2025-10-21,2,-1,399.52991669997573,../run_exp/static/images/probes/probes-50.png,2,0,driftwood_beach,1
+55445,2025-10-21,2,-1,268.6772085726261,../run_exp/static/images/probes/probes-13.png,3,0,driftwood_beach,0
+55445,2025-10-21,-1,-1,3000,../run_exp/static/images/probes/probes-108.png,4,0,driftwood_beach,0

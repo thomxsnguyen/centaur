@@ -1,19 +1,9 @@
-import os
-from openai import OpenAI
+from transformers import pipeline
 
-client = OpenAI(
-    base_url="https://router.huggingface.co/v1",
-    api_key=os.environ["HF_TOKEN"],
-)
-
-completion = client.chat.completions.create(
-    model="SakanaAI/TinySwallow-1.5B:featherless-ai",
-    messages=[
-        {
-            "role": "user",
-            "content": "What is the capital of France?"
-        }
-    ],
-)
-
-print(completion.choices[0].message)
+# Quick test for TinySwallow-1.5B using Hugging Face transformers pipeline
+pipe = pipeline("text-generation", model="SakanaAI/TinySwallow-1.5B")
+messages = [
+    {"role": "user", "content": "What is the capital of France?"},
+]
+result = pipe(messages)
+print(result)

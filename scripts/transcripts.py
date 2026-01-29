@@ -9,6 +9,7 @@ in a contextual bandit task with three actions: Red, White, and Black.
 
 import csv
 import os
+import argparse
 from pathlib import Path
 from typing import List, Dict, Optional
 
@@ -50,26 +51,28 @@ def parse_participant_data(csv_path: str) -> List[Dict]:
         reader = csv.DictReader(f)
         
         for row in reader:
-            # Only process rows that are actual trials (pirate_X)
+            # Only process rows that are actual trials (pirate_*)
             trial_type = row.get('TrialType', '')
-            
-            if trial_type.startswith('pirate_') and not trial_type.startswith('practice_'):
+
+            # Accept any trial_type that begins with pirate_ (avoid overly brittle checks)
+            if trial_type.startswith('pirate_'):
                 context = row.get('context', '')
                 choice_raw = row.get('choice', '')
                 reward = row.get('reward', '')
-                
-                # Skip if essential data is missing
-                if not context or not choice_raw or not reward:
+
+                # Skip if essential data is missing (use explicit empty-string checks)
+                if context == '' or choice_raw == '' or reward == '':
                     continue
-                
+
                 # Map choice to action
                 action = map_choice_to_action(choice_raw)
-                
+
                 trials.append({
                     'trial_num': len(trials) + 1,
                     'context': context,
                     'choice': action,
-                    'reward': reward
+                    'reward': reward,
+                    'trial_type': trial_type,
                 })
     
     return trials
@@ -106,7 +109,46 @@ def generate_transcript(trials: List[Dict], participant_id: str) -> str:
     return "\n".join(lines)
 
 
-def process_all_participants(data_dir: str, output_dir: str) -> None:
+def clean_trials(trials: List[Dict], strategy: str = "trim", allow_numeric_context: bool = False) -> List[Dict]:
+    """Clean a list of trial dicts.
+
+    strategy:
+      - 'trim': cut episode before first Unknown choice
+      - 'drop': drop rows where CHOOSE_ACTION is Unknown
+    """
+    # find Unknown indices
+    unknown_idxs = [i for i, t in enumerate(trials) if t.get('choice', '') == 'Unknown']
+    if unknown_idxs:
+        if strategy == 'trim':
+            trials = trials[:unknown_idxs[0]]
+        elif strategy == 'drop':
+            trials = [t for t in trials if t.get('choice', '') != 'Unknown']
+
+    def invalid_context(c):
+        if not c:
+            return True
+        cu = c.strip().upper()
+        if cu in {'NA', 'NONE'}:
+            return True
+        if (not allow_numeric_context) and cu.isdigit():
+            return True
+        return False
+
+    # remove invalid contexts
+    trials = [t for t in trials if not invalid_context(t.get('context', ''))]
+
+    # Validate choice against canonical actions
+    VALID_ACTIONS = {'Red', 'White', 'Black'}
+    cleaned = [t for t in trials if t.get('choice') in VALID_ACTIONS]
+
+    # Reindex trial numbers
+    for i, t in enumerate(cleaned, start=1):
+        t['trial_num'] = i
+
+    return cleaned
+
+
+def process_all_participants(data_dir: str, output_dir: str, clean: bool = False, strategy: str = 'trim', allow_numeric_context: bool = False) -> None:
     """
     Process all participant CSV files and generate transcripts.
     
@@ -129,26 +171,49 @@ def process_all_participants(data_dir: str, output_dir: str) -> None:
             # Extract participant ID from filename
             filename = csv_file.stem  # e.g., 'participant_1132'
             participant_id = filename.replace('participant_', '')
-            
+
             print(f"Processing {participant_id}...", end=' ')
-            
+
             # Parse trials
             trials = parse_participant_data(str(csv_file))
-            
+
             if not trials:
                 print(f"No trials found, skipping")
                 continue
-            
+
+            # Optionally clean trials before generating transcript
+            if clean:
+                print(f"  trials before cleaning: {len(trials)}")
+                cleaned = clean_trials(trials, strategy=strategy, allow_numeric_context=allow_numeric_context)
+                # debug info: first Unknown index
+                unknown_idxs = [i for i, t in enumerate(trials) if t.get('choice') == 'Unknown']
+                if unknown_idxs:
+                    print(f"  first Unknown at trial index: {unknown_idxs[0]+1}")
+                # sample unique contexts
+                contexts = list({t.get('context','') for t in trials})[:10]
+                print(f"  sample contexts: {contexts}")
+                print(f"  trials after cleaning: {len(cleaned)}")
+                # Use cleaned trials for transcript generation (do not write CSVs)
+                trials_to_use = cleaned
+            else:
+                trials_to_use = trials
+
             # Generate transcript
-            transcript = generate_transcript(trials, participant_id)
-            
-            # Save to file
-            output_file = output_path / f"transcript_{participant_id}.txt"
-            with open(output_file, 'w', encoding='utf-8') as f:
-                f.write(transcript)
-            
-            print(f"✓ Generated transcript with {len(trials)} trials")
-            
+            transcript = generate_transcript(trials_to_use, participant_id)
+
+            # Save to file: if cleaning is enabled, write only the cleaned transcript
+            output_path.mkdir(parents=True, exist_ok=True)
+            if clean:
+                # Write cleaned transcript into the main output folder (overwrite original)
+                with open(output_path / f"transcript_{participant_id}.txt", 'w', encoding='utf-8') as f:
+                    f.write(transcript)
+            else:
+                # No cleaning requested: write the unmodified transcript
+                with open(output_path / f"transcript_{participant_id}.txt", 'w', encoding='utf-8') as f:
+                    f.write(transcript)
+
+            print(f"✓ Generated transcript with {len(trials_to_use)} trials")
+
         except Exception as e:
             print(f"✗ Error: {e}")
 
@@ -173,7 +238,22 @@ def main():
         print(f"Error: Data directory not found: {data_dir}")
         return
     
-    process_all_participants(str(data_dir), str(output_dir))
+    # Parse CLI args so users can toggle cleaning and strategy
+    parser = argparse.ArgumentParser(description="Generate transcripts for contextual bandit experiment")
+    parser.add_argument('--data-dir', type=str, default=str(data_dir), help='Path to data directory')
+    parser.add_argument('--output-dir', type=str, default=str(output_dir), help='Path to output transcripts directory')
+    parser.add_argument('--clean', action=argparse.BooleanOptionalAction, default=True, help='Enable cleaning (default: true)')
+    parser.add_argument('--strategy', choices=['trim', 'drop'], default='trim', help='Cleaning strategy to apply')
+    parser.add_argument('--allow-numeric-context', action='store_true', default=False, help='Allow numeric-only contexts during cleaning')
+
+    args = parser.parse_args()
+
+    data_dir = Path(args.data_dir)
+    output_dir = Path(args.output_dir)
+
+    print(f"Cleaning: {args.clean}, Strategy: {args.strategy}, Allow numeric context: {args.allow_numeric_context}")
+
+    process_all_participants(str(data_dir), str(output_dir), clean=args.clean, strategy=args.strategy, allow_numeric_context=args.allow_numeric_context)
     
     print()
     print("=" * 60)

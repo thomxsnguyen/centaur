@@ -2,18 +2,30 @@ import os
 from dotenv import load_dotenv
 from transformers import pipeline
 
-# Load .env (if present) so HF_TOKEN is available in os.environ
+
 load_dotenv()
 
-# Optionally use HF_TOKEN for authenticated downloads (transformers will pick up)
 hf_token = os.environ.get("HF_TOKEN")
 
-# Quick test for TinySwallow-1.5B using Hugging Face transformers pipeline
-# If you need to pass credentials explicitly to the pipeline (rare), set
-# `use_auth_token=hf_token` when calling `pipeline(...)`.
-pipe = pipeline("text-generation", model="SakanaAI/TinySwallow-1.5B")
+
+pipeline_kwargs = dict(
+    model="SakanaAI/TinySwallow-1.5B",
+    trust_remote_code=True,
+)
+if hf_token:
+    pipeline_kwargs["use_auth_token"] = hf_token
+
+
+try:
+    pipe = pipeline("text-generation", **pipeline_kwargs, device_map="auto")
+except Exception:
+    pipe = pipeline("text-generation", **pipeline_kwargs)
+
+
 messages = [
     {"role": "user", "content": "What is the capital of France?"},
 ]
-result = pipe(messages)
+
+gen_kwargs = dict(max_new_tokens=40, do_sample=True, temperature=0.7, top_p=0.95)
+result = pipe(messages, **gen_kwargs)
 print(result)

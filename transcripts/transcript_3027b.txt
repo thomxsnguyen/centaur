@@ -1,0 +1,6 @@
+PARTICIPANT: 3027b
+============================================================
+TASK: Contextual bandit experiment.
+ACTIONS: Red, White, Black.
+GOAL: Earn as many rewards as possible.
+============================================================

@@ -1,0 +1,6 @@
+transformers>=4.30.0
+huggingface_hub>=0.17.0
+python-dotenv>=1.0.0
+matplotlib>=3.5
+torch>=2.0
+pyyaml>=6.0

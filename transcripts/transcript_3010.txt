@@ -1,0 +1,186 @@
+PARTICIPANT: 3010
+============================================================
+TASK: Contextual bandit experiment.
+ACTIONS: Red, White, Black.
+GOAL: Earn as many rewards as possible.
+============================================================
+
+TRIAL 1
+CONTEXT: driftwood_beach
+AVAILABLE_ACTIONS: Red, White, Black
+CHOOSE_ACTION: Red
+REWARD: 1
+
+TRIAL 2
+CONTEXT: driftwood_beach
+AVAILABLE_ACTIONS: Red, White, Black
+CHOOSE_ACTION: White
+REWARD: 0
+
+TRIAL 3
+CONTEXT: driftwood_beach
+AVAILABLE_ACTIONS: Red, White, Black
+CHOOSE_ACTION: Black
+REWARD: 0
+
+TRIAL 4
+CONTEXT: driftwood_beach
+AVAILABLE_ACTIONS: Red, White, Black
+CHOOSE_ACTION: Red
+REWARD: 0
+
+TRIAL 5
+CONTEXT: driftwood_beach
+AVAILABLE_ACTIONS: Red, White, Black
+CHOOSE_ACTION: Red
+REWARD: 0
+
+TRIAL 6
+CONTEXT: driftwood_beach
+AVAILABLE_ACTIONS: Red, White, Black
+CHOOSE_ACTION: White
+REWARD: 1
+
+TRIAL 7
+CONTEXT: driftwood_beach
+AVAILABLE_ACTIONS: Red, White, Black
+CHOOSE_ACTION: White
+REWARD: 1
+
+TRIAL 8
+CONTEXT: driftwood_beach
+AVAILABLE_ACTIONS: Red, White, Black
+CHOOSE_ACTION: White
+REWARD: 0
+
+TRIAL 9
+CONTEXT: driftwood_beach
+AVAILABLE_ACTIONS: Red, White, Black
+CHOOSE_ACTION: White
+REWARD: 1
+
+TRIAL 10
+CONTEXT: driftwood_beach
+AVAILABLE_ACTIONS: Red, White, Black
+CHOOSE_ACTION: Black
+REWARD: 0
+
+TRIAL 11
+CONTEXT: driftwood_beach
+AVAILABLE_ACTIONS: Red, White, Black
+CHOOSE_ACTION: White
+REWARD: 0
+
+TRIAL 12
+CONTEXT: driftwood_beach
+AVAILABLE_ACTIONS: Red, White, Black
+CHOOSE_ACTION: White
+REWARD: 0
+
+TRIAL 13
+CONTEXT: driftwood_beach
+AVAILABLE_ACTIONS: Red, White, Black
+CHOOSE_ACTION: White
+REWARD: 0
+
+TRIAL 14
+CONTEXT: driftwood_beach
+AVAILABLE_ACTIONS: Red, White, Black
+CHOOSE_ACTION: Red
+REWARD: 1
+
+TRIAL 15
+CONTEXT: driftwood_beach
+AVAILABLE_ACTIONS: Red, White, Black
+CHOOSE_ACTION: Red
+REWARD: 1
+
+TRIAL 16
+CONTEXT: driftwood_beach
+AVAILABLE_ACTIONS: Red, White, Black
+CHOOSE_ACTION: Red
+REWARD: 0
+
+TRIAL 17
+CONTEXT: driftwood_beach
+AVAILABLE_ACTIONS: Red, White, Black
+CHOOSE_ACTION: Red
+REWARD: 0
+
+TRIAL 18
+CONTEXT: driftwood_beach
+AVAILABLE_ACTIONS: Red, White, Black
+CHOOSE_ACTION: Red
+REWARD: 0
+
+TRIAL 19
+CONTEXT: driftwood_beach
+AVAILABLE_ACTIONS: Red, White, Black
+CHOOSE_ACTION: White
+REWARD: 1
+
+TRIAL 20
+CONTEXT: driftwood_beach
+AVAILABLE_ACTIONS: Red, White, Black
+CHOOSE_ACTION: Black
+REWARD: 1
+
+TRIAL 21
+CONTEXT: driftwood_beach
+AVAILABLE_ACTIONS: Red, White, Black
+CHOOSE_ACTION: Black
+REWARD: 0
+
+TRIAL 22
+CONTEXT: driftwood_beach
+AVAILABLE_ACTIONS: Red, White, Black
+CHOOSE_ACTION: White
+REWARD: 0
+
+TRIAL 23
+CONTEXT: driftwood_beach
+AVAILABLE_ACTIONS: Red, White, Black
+CHOOSE_ACTION: White
+REWARD: 0
+
+TRIAL 24
+CONTEXT: driftwood_beach
+AVAILABLE_ACTIONS: Red, White, Black
+CHOOSE_ACTION: Red
+REWARD: 1
+
+TRIAL 25
+CONTEXT: driftwood_beach
+AVAILABLE_ACTIONS: Red, White, Black
+CHOOSE_ACTION: Red
+REWARD: 1
+
+TRIAL 26
+CONTEXT: driftwood_beach
+AVAILABLE_ACTIONS: Red, White, Black
+CHOOSE_ACTION: Red
+REWARD: 1
+
+TRIAL 27
+CONTEXT: driftwood_beach
+AVAILABLE_ACTIONS: Red, White, Black
+CHOOSE_ACTION: Red
+REWARD: 0
+
+TRIAL 28
+CONTEXT: driftwood_beach
+AVAILABLE_ACTIONS: Red, White, Black
+CHOOSE_ACTION: Red
+REWARD: 1
+
+TRIAL 29
+CONTEXT: driftwood_beach
+AVAILABLE_ACTIONS: Red, White, Black
+CHOOSE_ACTION: White
+REWARD: 0
+
+TRIAL 30
+CONTEXT: driftwood_beach
+AVAILABLE_ACTIONS: Red, White, Black
+CHOOSE_ACTION: Black
+REWARD: 0

@@ -1,0 +1,16 @@
+model_name: "SakanaAI/TinySwallow-1.5B"
+device_map: "auto"
+trust_remote_code: true
+
+generation:
+  # These are the preferred generation defaults used by the policy wrapper.
+  max_new_tokens: 12
+  do_sample: false
+  temperature: 0.0
+  top_p: 1.0
+  # When retrying, the policy will use these sampling-friendly params
+  retry:
+    max_new_tokens: 16
+    do_sample: true
+    temperature: 0.7
+    top_p: 0.95

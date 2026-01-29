@@ -1,0 +1,7 @@
+# TinySwallow-1.5B LLM configuration
+model_path: "SakanaAI/TinySwallow-1.5B"
+device: "cuda" # or "cpu"
+max_new_tokens: 16
+temperature: 0.7
+top_p: 0.95
+repetition_penalty: 1.1

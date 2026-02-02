@@ -1,3 +1,6 @@
+
+Project Status: In Progress
+
 Centaur-Fidelity: Behavioral Simulation Pipeline
 
 This project implements a Centaur-style behavioral simulation pipeline using a large language model (LLM) trained on human decision-making data. It simulates human behavior in experimental tasks, enabling in-silico experimentation and comparison of model vs. real participant behavior.
